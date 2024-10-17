@@ -20,8 +20,11 @@ body {
 
 main {
     flex: 1 0 auto;
-    background-color: lightblue;
+    background-color: black;
     width: 100%;
+    background-image: url('https://www.shutterstock.com/image-illustration/gym-weights-under-strong-dramatic-600nw-472696720.jpg');
+    background-size: 78%;
+
 }
 
 header {
@@ -55,12 +58,30 @@ h1 {
 
 #menu li {
     margin-bottom: 1em;
+    display: flex;
 }
 
-.active {
-    border-bottom: 1px solid #3a3a3a;
+h2 {
+    font-family: 'oswald', sans-serif;
+    font-size: 2rem;
+    text-transform: uppercase;
+    color: darkmagenta;
 }
 
+h3 {
+    color: #252525;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+main h2 {
+    text-align: center;
+}
+
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: white;
+}
 
 li a {
     color: white;
