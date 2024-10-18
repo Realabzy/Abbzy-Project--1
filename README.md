@@ -8,7 +8,8 @@ I created  website about relentless fitness gyms, where customers can find info 
 Technology:
 This project was created with HTML and CSS concept using cloud ide. I have posted it on my Github profile
 
-FEATURES
+ # FEATURES
+
 .Home page link brings users to homepage where they can learn about relentless fitness gyms
 .Home page with Sign up link to new page 
 that brings user to registration/sign up form.
@@ -30,16 +31,16 @@ that brings user to registration/sign up form.
  .the forms page has been customised with styles and button features 
  
 
- .IMAGES
+ # IMAGES
 all media was taken from google chrome .
 
-.improvements
+# Improvements
 
 websites can be made more responsive to all screen sizes
 
 overall touch up on html and css would be ideal in order to better improve website styling and customization .
 
-.Acknoledgements
+# Acknowledgements
 
 .My tutor Iuliia Konovalova has helped me alot with mapping out an idea and encouraging me to take action without forgetting certain fundamentals of css and html. She really challenged and never made me feel insecure about my abilities to do my first project .
 
